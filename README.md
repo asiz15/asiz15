@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **React, Vue, TypeScript, and Nodejs.**
 
-- 📫 How to reach me **a.silvazapata@gmail.com**
+- 📫 Contact me: **a.silvazapata@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
