@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Alex Silva</h1>
 <h3 align="center">Passionate about web and mobile technologies, developing software since 2019.</h3>
-<h3 align="center">🔭 Currently looking to be part of a development team.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=asiz15&label=Profile%20views&color=0e75b6&style=flat" alt="asiz15" /> </p>
 
