@@ -11,9 +11,6 @@
 
 - 💬 Ask me about **React, Vue, TypeScript, and Nodejs.**
 
-- 📫 Contact me: **a.silvazapata@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
